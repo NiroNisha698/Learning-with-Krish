@@ -26,7 +26,7 @@ public class StageEndpoint {
 
     }
 
-    //post
+    //postt
     @WriteOperation
     public void setValue(@Selector String name, int stage){
         stages.put(name,new Stage(stage));
