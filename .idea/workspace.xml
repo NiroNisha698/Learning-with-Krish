@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b65da8c-3a53-4789-b5a1-90ab48aa1f42" name="Default Changelist" comment="Spring">
+    <list default="true" id="7b65da8c-3a53-4789-b5a1-90ab48aa1f42" name="Default Changelist" comment="Simple microservice using Spring Boot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices/Practical/Demo-Application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Microservices/Practical/Demo-Application/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices/Practical/Demo-Application/src/main/java/com/nirosha/rentbook/demoapplication/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Microservices/Practical/Demo-Application/src/main/java/com/nirosha/rentbook/demoapplication/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices/Practical/Demo-Application/src/main/java/com/nirosha/rentbook/demoapplication/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Microservices/Practical/Demo-Application/src/main/java/com/nirosha/rentbook/demoapplication/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices/Practical/Demo-Application/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Microservices/Practical/Demo-Application/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641325156977</updated>
-      <workItem from="1642007123791" duration="1088000" />
+      <workItem from="1642007123791" duration="1808000" />
     </task>
     <task id="LOCAL-00001" summary="Spring">
       <created>1641327907068</created>
@@ -82,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641328511672</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Simple microservice using Spring Boot">
+      <created>1642010631867</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642010631867</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Spring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring" />
+    <MESSAGE value="Simple microservice using Spring Boot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple microservice using Spring Boot" />
   </component>
 </project>
